@@ -1,6 +1,6 @@
 # Names
 delta-chat-emote-name-honk = Honk
-delta-chat-emote-name-ring = Badala
+delta-chat-emote-name-ring = Badalar
 delta-chat-emote-name-pew = Pew
 delta-chat-emote-name-bang = Bater
 delta-chat-emote-name-beep = Bipar
