@@ -1,2 +1,2 @@
-reagent-name-stasizium = Stasizium
-reagent-desc-stasizium = An unstable fluid of future capable of restoring the patient's body to its original state. However, an overdose can tear the body apart.
+reagent-name-stasizium = Estasil
+reagent-desc-stasizium = Um fluído instável do futuro capaz de restaurar o corpo do paciente para seu estado original. Entretanto, uma overdose pode rasgar o corpo.
