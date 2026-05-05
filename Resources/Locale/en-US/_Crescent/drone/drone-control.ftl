@@ -1,5 +1,5 @@
-drone-control-no-grid = no grid
-drone-control-out-of-range = Out of range
+drone-control-no-grid = sem grid
+drone-control-out-of-range = Fora de alcance
 
-drone-control-autolink = Autolink
-drone-control-autolinked = Linked {$count} drones.
+drone-control-autolink = Vinculação automática
+drone-control-autolinked = Vinculou {$count} drones.
